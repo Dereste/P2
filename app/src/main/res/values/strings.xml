@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mapcalc</string>
+    <string-array name="vehicle_types">
+        <item>Passenger Cars and Light SUVs</item>
+        <item>Heavy SUVs and Light Commercial Vehicles</item>
+    </string-array>
+    <string name="google_maps_api_key">AIzaSyC4efq8MS8cYk9i7gIpianxYVyQTvAF0BE</string>
+</resources>

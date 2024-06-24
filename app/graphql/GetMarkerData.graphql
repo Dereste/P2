@@ -1,0 +1,9 @@
+query GetMarkerData($markerId: ID!) {
+  marker(id: $markerId) {
+    id
+    title
+    description
+    latitude
+    longitude
+  }
+}
